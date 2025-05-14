@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 增加好友工具應用(拖拉版型)"
 last_modified: "2025-02-03"
-categories: [2023-07-19 01:49:41]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE,LINEOA]
 permalink: "https://www.cyberbiz.io/support/?p=38439"
 ---

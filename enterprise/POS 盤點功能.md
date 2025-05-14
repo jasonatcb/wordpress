@@ -1,7 +1,7 @@
 ---
 title: "POS 盤點功能"
 last_modified: "2024-08-30"
-categories: [2023-10-13 05:48:36]
+categories: [POS>POS後台,POS>POS前台>庫存盤點]
 tags: [POS,POS前台,POS後台]
 permalink: "https://www.cyberbiz.io/support/?p=39410"
 ---

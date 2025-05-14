@@ -1,7 +1,7 @@
 ---
 title: "網域設定 - PChome"
 last_modified: "2024-06-25"
-categories: [2019-03-08 03:44:59]
+categories: [網站設定>網域設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=140"
 ---

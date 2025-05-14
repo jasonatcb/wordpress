@@ -1,7 +1,7 @@
 ---
 title: "POS - 美麗科技電子發票申請流程"
 last_modified: "2024-11-21"
-categories: [2024-11-19 10:26:17]
+categories: [POS>POS後台,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=46379"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ 客服系統功能介紹"
 last_modified: "2022-10-13"
-categories: [2021-12-15 03:51:45]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24045"
 ---

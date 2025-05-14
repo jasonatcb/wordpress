@@ -1,7 +1,7 @@
 ---
 title: "Meta 廣告 – Step1 廣告帳號建立/儲值"
 last_modified: "2024-12-12"
-categories: [2021-07-29 11:36:11]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=17882"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "金流申請：PAYPAL"
 last_modified: "2023-12-01"
-categories: [2022-11-28 03:44:37]
+categories: [TW台灣站,網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=35119"
 ---

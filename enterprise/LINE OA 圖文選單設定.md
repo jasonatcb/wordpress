@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 圖文選單設定"
 last_modified: "2023-10-31"
-categories: [2022-09-15 06:34:00]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE,LINE OA,LINE行銷,圖文選單]
 permalink: "https://www.cyberbiz.io/support/?p=855"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "超取退貨便 C2B : 操作說明"
 last_modified: "2025-02-26"
-categories: [2022-11-02 09:49:38]
+categories: [TW台灣站,訂單>退貨退款]
 tags: [7-11,B2C,C2B,物流,退貨,退貨便]
 permalink: "https://www.cyberbiz.io/support/?p=34661"
 ---

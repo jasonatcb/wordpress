@@ -1,7 +1,7 @@
 ---
 title: "網域設定-GANDI"
 last_modified: "2024-08-28"
-categories: [2022-11-30 08:22:00]
+categories: [TW台灣站,網站設定>網域設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13235"
 ---

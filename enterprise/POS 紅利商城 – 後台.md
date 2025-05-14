@@ -1,7 +1,7 @@
 ---
 title: "POS 紅利商城 – 後台"
 last_modified: "2023-01-03"
-categories: [2022-12-30 02:42:56]
+categories: [POS>POS紅利商城,POS>POS後台,TW台灣站]
 tags: [POS,POS後台,紅利商城]
 permalink: "https://www.cyberbiz.io/support/?p=35549"
 ---

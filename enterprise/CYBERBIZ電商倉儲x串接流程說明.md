@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲x串接流程說明"
 last_modified: "2022-11-25"
-categories: [2022-03-22 06:14:41]
+categories: [峰潮倉庫-Honeycomb]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=28967"
 ---

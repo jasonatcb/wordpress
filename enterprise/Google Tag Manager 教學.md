@@ -1,7 +1,7 @@
 ---
 title: "Google Tag Manager 教學"
 last_modified: "2025-04-28"
-categories: [2019-03-08 09:44:39]
+categories: [第三方整合>Google相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=228"
 ---

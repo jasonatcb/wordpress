@@ -1,7 +1,7 @@
 ---
 title: "AFTEE先享後付 金流說明"
 last_modified: "2024-02-29"
-categories: [2020-01-09 06:08:20]
+categories: [網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=5525"
 ---

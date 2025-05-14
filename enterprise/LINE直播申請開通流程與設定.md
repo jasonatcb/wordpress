@@ -1,7 +1,7 @@
 ---
 title: "LINE直播申請開通流程與設定"
 last_modified: "2024-11-20"
-categories: [2022-08-18 06:39:07]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE推播,LINE直播]
 permalink: "https://www.cyberbiz.io/support/?p=32529"
 ---

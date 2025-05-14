@@ -1,7 +1,7 @@
 ---
 title: "AUTOMATION 功能介紹"
 last_modified: "2024-04-25"
-categories: [2023-08-10 09:50:46]
+categories: [TW台灣站,第三方整合]
 tags: [AUTOMATION,RFM,自動化]
 permalink: "https://www.cyberbiz.io/support/?p=38638"
 ---

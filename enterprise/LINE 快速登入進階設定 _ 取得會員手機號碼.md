@@ -1,7 +1,7 @@
 ---
 title: "LINE 快速登入進階設定 : 取得會員手機號碼"
 last_modified: "2024-08-16"
-categories: [2023-01-03 03:32:15]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE,LINE登入]
 permalink: "https://www.cyberbiz.io/support/?p=35740"
 ---

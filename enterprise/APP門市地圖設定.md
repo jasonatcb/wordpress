@@ -1,7 +1,7 @@
 ---
 title: "APP門市地圖設定"
 last_modified: "2020-07-20"
-categories: [2020-06-09 08:11:19]
+categories: [APP]
 tags: [APP]
 permalink: "https://www.cyberbiz.io/support/?p=7761"
 ---

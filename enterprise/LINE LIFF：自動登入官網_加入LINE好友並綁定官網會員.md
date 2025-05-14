@@ -1,7 +1,7 @@
 ---
 title: "LINE LIFF：自動登入官網/加入LINE好友並綁定官網會員"
 last_modified: "2025-03-06"
-categories: [2024-03-22 06:53:39]
+categories: [第三方整合>LINE相關設定]
 tags: [LINE]
 permalink: "https://www.cyberbiz.io/support/?p=41333"
 ---

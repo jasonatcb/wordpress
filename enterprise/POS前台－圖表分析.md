@@ -1,7 +1,7 @@
 ---
 title: "POS前台－圖表分析"
 last_modified: "2022-01-13"
-categories: [2022-01-11 06:32:12]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=25087"
 ---

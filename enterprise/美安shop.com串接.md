@@ -1,7 +1,7 @@
 ---
 title: "美安shop.com串接"
 last_modified: "2024-11-01"
-categories: [2022-02-10 01:20:00]
+categories: [第三方整合>美安串接,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=647"
 ---

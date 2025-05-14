@@ -1,7 +1,7 @@
 ---
 title: "Amazon FBA 物流設定"
 last_modified: "2023-03-10"
-categories: [2022-02-21 07:19:00]
+categories: [跨境電商>日本站,跨境電商>北美站]
 tags: [Amazon FBA,北美站,物流設定,跨境電商]
 permalink: "https://www.cyberbiz.io/support/?p=20676"
 ---

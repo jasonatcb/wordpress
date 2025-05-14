@@ -1,7 +1,7 @@
 ---
 title: "POS前台-會員管理"
 last_modified: "2024-11-25"
-categories: [2022-02-25 03:40:07]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=27954"
 ---

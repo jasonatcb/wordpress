@@ -1,7 +1,7 @@
 ---
 title: "POS網路連線過慢/斷線提示"
 last_modified: "2022-02-25"
-categories: [2022-02-08 09:50:54]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=27029"
 ---

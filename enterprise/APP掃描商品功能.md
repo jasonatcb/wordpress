@@ -1,7 +1,7 @@
 ---
 title: "APP掃描商品功能"
 last_modified: "2020-07-21"
-categories: [2020-07-20 07:17:14]
+categories: [APP]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=8220"
 ---

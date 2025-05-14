@@ -1,7 +1,7 @@
 ---
 title: "轉貼連結預設圖片(OG image)"
 last_modified: "2021-09-10"
-categories: [2021-09-02 06:05:18]
+categories: [常見問題,網站設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=19718"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "EXCEL 批次修改商品描述/溫層/配送方式/通路"
 last_modified: "2024-09-25"
-categories: [2024-07-17 01:51:57]
+categories: [商品>商品上架/管理]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=44199"
 ---

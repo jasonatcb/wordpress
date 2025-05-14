@@ -1,7 +1,7 @@
 ---
 title: "Google 快速登入教學"
 last_modified: "2025-03-13"
-categories: [2022-05-13 09:30:26]
+categories: [第三方整合>Google相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=30252"
 ---

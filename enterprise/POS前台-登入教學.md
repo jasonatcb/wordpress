@@ -1,7 +1,7 @@
 ---
 title: "POS前台-登入教學"
 last_modified: "2023-02-20"
-categories: [2019-05-21 09:15:31]
+categories: [POS>POS前台>前台登入教學]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2915"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "移除 Google 搜尋結果中的子目錄頁面"
 last_modified: "2025-05-13"
-categories: [2022-01-13 07:03:39]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=25441"
 ---

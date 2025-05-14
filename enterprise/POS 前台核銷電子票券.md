@@ -1,7 +1,7 @@
 ---
 title: "POS 前台核銷電子票券"
 last_modified: "2022-10-25"
-categories: [2022-07-20 01:31:44]
+categories: [TW台灣站,POS>POS前台]
 tags: [POS]
 permalink: "https://www.cyberbiz.io/support/?p=31866"
 ---

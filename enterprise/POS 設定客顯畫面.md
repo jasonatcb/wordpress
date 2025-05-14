@@ -1,7 +1,7 @@
 ---
 title: "POS 設定客顯畫面"
 last_modified: "2025-05-12"
-categories: [2020-01-31 09:10:49]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=5578"
 ---

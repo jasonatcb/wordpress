@@ -1,7 +1,7 @@
 ---
 title: "POS門市取貨：出貨流程"
 last_modified: "2024-08-06"
-categories: [2020-12-17 04:48:27]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=10522"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "LINE 團購設定(機器人+團購商品+團購群組)"
 last_modified: "2024-12-11"
-categories: [2022-04-01 09:15:20]
+categories: [第三方整合>LINE相關設定]
 tags: [LINE團購]
 permalink: "https://www.cyberbiz.io/support/?p=29174"
 ---

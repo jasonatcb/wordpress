@@ -1,7 +1,7 @@
 ---
 title: "建立及管理 DHL 託運單"
 last_modified: "2025-02-10"
-categories: [2022-04-19 04:05:00]
+categories: [訂單>出貨,跨境電商>多國語系,跨境電商>北美站,網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=29736"
 ---

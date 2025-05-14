@@ -1,7 +1,7 @@
 ---
 title: "網域設定 - HiNet"
 last_modified: "2025-01-15"
-categories: [2022-08-02 02:00:00]
+categories: [TW台灣站,網站設定>網域設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=106"
 ---

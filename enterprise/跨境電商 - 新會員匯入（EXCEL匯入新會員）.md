@@ -1,7 +1,7 @@
 ---
 title: "跨境電商 - 新會員匯入（EXCEL匯入新會員）"
 last_modified: "2024-03-15"
-categories: [2022-08-31 03:46:09]
+categories: [會員>會員管理,跨境電商>北美站]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=33051"
 ---

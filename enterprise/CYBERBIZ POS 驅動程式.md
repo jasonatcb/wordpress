@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ POS 驅動程式"
 last_modified: "2025-05-07"
-categories: [2020-09-25 08:47:14]
+categories: [POS>POS後台>權限設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=9556"
 ---

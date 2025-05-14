@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨後台設定-建立快速到貨商品專區"
 last_modified: "2022-01-28"
-categories: [2021-06-03 09:49:53]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12861"
 ---

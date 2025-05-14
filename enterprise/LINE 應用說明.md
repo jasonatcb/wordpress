@@ -1,7 +1,7 @@
 ---
 title: "LINE 應用說明"
 last_modified: "2024-11-25"
-categories: [2021-10-25 09:39:11]
+categories: [第三方整合>LINE相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=21985"
 ---

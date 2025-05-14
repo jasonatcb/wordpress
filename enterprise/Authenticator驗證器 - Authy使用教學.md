@@ -1,7 +1,7 @@
 ---
 title: "Authenticator驗證器 - Authy使用教學"
 last_modified: "2021-07-16"
-categories: [2021-07-16 02:57:01]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12873"
 ---

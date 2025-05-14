@@ -1,7 +1,7 @@
 ---
 title: "超商店到店（C2C）：操作出貨"
 last_modified: "2025-04-10"
-categories: [2019-03-14 02:47:08]
+categories: [訂單>出貨,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=980"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "新版VIP基本設定"
 last_modified: "2024-07-15"
-categories: [2021-05-05 05:58:11]
+categories: [會員>VIP設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12291"
 ---

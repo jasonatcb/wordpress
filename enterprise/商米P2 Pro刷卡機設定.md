@@ -1,7 +1,7 @@
 ---
 title: "商米P2 Pro刷卡機設定"
 last_modified: "2023-12-11"
-categories: [2021-10-08 03:57:34]
+categories: [POS>POS後台>付款方式設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=21480"
 ---

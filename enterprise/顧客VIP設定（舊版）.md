@@ -1,7 +1,7 @@
 ---
 title: "顧客VIP設定（舊版）"
 last_modified: "2022-01-13"
-categories: [2019-04-01 04:20:03]
+categories: [會員>VIP設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2706"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "POS身份權限設定"
 last_modified: "2024-06-14"
-categories: [2019-07-19 03:24:33]
+categories: [POS>POS後台>權限設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=3168"
 ---

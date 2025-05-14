@@ -1,7 +1,7 @@
 ---
 title: "網域設定 - 遠傳e管家"
 last_modified: "2024-09-25"
-categories: [2024-06-13 11:02:03]
+categories: [TW台灣站,網站設定>網域設定]
 tags: [網域]
 permalink: "https://www.cyberbiz.io/support/?p=43182"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "於訂單成立頁和付款完成頁新增加入 LINE 好友連結"
 last_modified: "2024-12-16"
-categories: [2022-05-13 09:30:04]
+categories: [第三方整合>LINE相關設定,網站設定>前台介面,網站設定>語法教學,常見問題]
 tags: [LINE推播,一般版型,付款完成頁,拖拉版型,訂單成立頁]
 permalink: "https://www.cyberbiz.io/support/?p=30333"
 ---

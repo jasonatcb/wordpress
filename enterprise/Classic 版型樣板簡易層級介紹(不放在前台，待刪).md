@@ -1,7 +1,7 @@
 ---
 title: "Classic 版型樣板簡易層級介紹(不放在前台，待刪)"
 last_modified: "2022-02-24"
-categories: [2019-10-14 02:38:00]
+categories: [網站設定>前台介面,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4032"
 ---

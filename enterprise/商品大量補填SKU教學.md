@@ -1,7 +1,7 @@
 ---
 title: "商品大量補填SKU教學"
 last_modified: "2022-02-08"
-categories: [2019-07-26 09:33:19]
+categories: [POS>POS後台>商品大量補填SKU,常見問題]
 tags: [POS,SKU]
 permalink: "https://www.cyberbiz.io/support/?p=3296"
 ---

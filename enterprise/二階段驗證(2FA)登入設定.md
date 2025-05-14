@@ -1,7 +1,7 @@
 ---
 title: "二階段驗證(2FA)登入設定"
 last_modified: "2024-08-23"
-categories: [2021-06-07 09:27:56]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12650"
 ---

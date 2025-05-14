@@ -1,7 +1,7 @@
 ---
 title: "會員專屬價格設定(VIP)"
 last_modified: "2024-11-15"
-categories: [2021-11-18 02:00:00]
+categories: [商品>會員專屬價格,行銷活動>商品優惠折扣]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=10289"
 ---

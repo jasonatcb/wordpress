@@ -1,7 +1,7 @@
 ---
 title: "拖拉版型－elfsight應用（IG牆為例）"
 last_modified: "2022-05-25"
-categories: [2022-01-24 06:57:22]
+categories: [網站設定>拖拉版型]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=26488"
 ---

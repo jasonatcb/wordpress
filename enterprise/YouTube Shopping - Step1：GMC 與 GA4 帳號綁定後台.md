@@ -1,7 +1,7 @@
 ---
 title: "YouTube Shopping - Step1：GMC 與 GA4 帳號綁定後台"
 last_modified: "2024-11-04"
-categories: [2020-03-02 03:36:13]
+categories: [第三方整合>YouTube相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=6118"
 ---

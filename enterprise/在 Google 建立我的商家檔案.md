@@ -1,7 +1,7 @@
 ---
 title: "在 Google 建立我的商家檔案"
 last_modified: "2025-04-28"
-categories: [2022-01-04 11:48:17]
+categories: [第三方整合>Google相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24764"
 ---

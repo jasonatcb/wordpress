@@ -1,7 +1,7 @@
 ---
 title: "物流 : LINEX 物流開通設定"
 last_modified: "2025-02-04"
-categories: [2023-07-26 05:57:56]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=38562"
 ---

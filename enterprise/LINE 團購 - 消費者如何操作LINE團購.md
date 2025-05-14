@@ -1,7 +1,7 @@
 ---
 title: "LINE 團購 - 消費者如何操作LINE團購"
 last_modified: "2022-06-14"
-categories: [2022-04-27 01:30:00]
+categories: [第三方整合>LINE相關設定]
 tags: [LINE團購,行銷]
 permalink: "https://www.cyberbiz.io/support/?p=29461"
 ---

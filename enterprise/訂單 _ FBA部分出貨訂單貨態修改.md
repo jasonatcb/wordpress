@@ -1,7 +1,7 @@
 ---
 title: "訂單 : FBA部分出貨訂單貨態修改"
 last_modified: "2024-04-17"
-categories: [2024-04-08 01:43:10]
+categories: [訂單>出貨,跨境電商,訂單>訂單狀態]
 tags: [出貨,物流設定,跨境電商]
 permalink: "https://www.cyberbiz.io/support/?p=41646"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "在 Google Ads 設定強化轉換"
 last_modified: "2025-05-13"
-categories: [2023-11-02 04:06:11]
+categories: [第三方整合>Google相關設定,TW台灣站]
 tags: [GOOGLE,Google ADS,第三方]
 permalink: "https://www.cyberbiz.io/support/?p=39654"
 ---

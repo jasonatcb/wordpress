@@ -1,7 +1,7 @@
 ---
 title: "POS前台訪客結帳"
 last_modified: "2021-05-31"
-categories: [2021-05-19 07:22:34]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12638"
 ---

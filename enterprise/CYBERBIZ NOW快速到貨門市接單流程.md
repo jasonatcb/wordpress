@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨門市接單流程"
 last_modified: "2025-02-03"
-categories: [2021-06-10 02:33:02]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13744"
 ---

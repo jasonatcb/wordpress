@@ -1,7 +1,7 @@
 ---
 title: "全家冷凍店到店取貨服務(C2C)"
 last_modified: "2024-12-24"
-categories: [2024-01-23 09:13:50]
+categories: [TW台灣站,網站設定>金物流設定]
 tags: [全家,冷凍,物流]
 permalink: "https://www.cyberbiz.io/support/?p=40721"
 ---

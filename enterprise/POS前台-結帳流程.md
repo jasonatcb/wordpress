@@ -1,7 +1,7 @@
 ---
 title: "POS前台-結帳流程"
 last_modified: "2024-04-15"
-categories: [2019-05-21 09:35:04]
+categories: [POS>POS前台>結帳教學]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2923"
 ---

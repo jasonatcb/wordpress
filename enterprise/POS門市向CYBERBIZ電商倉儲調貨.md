@@ -1,7 +1,7 @@
 ---
 title: "POS門市向CYBERBIZ電商倉儲調貨"
 last_modified: "2022-03-17"
-categories: [2022-03-10 08:16:50]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=28494"
 ---

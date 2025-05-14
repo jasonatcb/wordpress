@@ -1,7 +1,7 @@
 ---
 title: "超商店到店寄件(C2C) 串接設定"
 last_modified: "2024-12-24"
-categories: [2022-02-16 07:01:00]
+categories: [網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=5958"
 ---

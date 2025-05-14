@@ -1,7 +1,7 @@
 ---
 title: "POS振興券付款方式設定與對帳"
 last_modified: "2020-07-01"
-categories: [2020-06-18 02:45:51]
+categories: [POS>POS後台,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=7844"
 ---

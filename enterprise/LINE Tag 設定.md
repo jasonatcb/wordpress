@@ -1,7 +1,7 @@
 ---
 title: "LINE Tag 設定"
 last_modified: "2023-11-16"
-categories: [2022-03-22 02:30:00]
+categories: [行銷活動>行銷工具,第三方整合>LINE相關設定]
 tags: [LINE OA,LINE推播,LINE行銷]
 permalink: "https://www.cyberbiz.io/support/?p=28602"
 ---

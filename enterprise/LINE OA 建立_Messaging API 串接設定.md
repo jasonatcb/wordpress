@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 建立/Messaging API 串接設定"
 last_modified: "2024-10-25"
-categories: [2021-06-27 22:15:00]
+categories: [第三方整合>LINE相關設定]
 tags: [LINE,LINE OA,LINE推播,LINE直播,LINE行銷]
 permalink: "https://www.cyberbiz.io/support/?p=706"
 ---

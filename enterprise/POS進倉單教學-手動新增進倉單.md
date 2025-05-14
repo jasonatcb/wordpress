@@ -1,7 +1,7 @@
 ---
 title: "POS進倉單教學-手動新增進倉單"
 last_modified: "2023-08-10"
-categories: [2019-11-18 03:11:24]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4750"
 ---

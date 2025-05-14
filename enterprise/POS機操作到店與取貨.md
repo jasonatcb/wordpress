@@ -1,7 +1,7 @@
 ---
 title: "POS機操作到店與取貨"
 last_modified: "2022-02-24"
-categories: [2020-12-15 09:29:29]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=10488"
 ---

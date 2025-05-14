@@ -1,7 +1,7 @@
 ---
 title: "設定 Meta 廣告的單日預算"
 last_modified: "2024-10-16"
-categories: [2019-03-22 01:51:39]
+categories: [第三方整合>Facebook相關設定,行銷活動]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2166"
 ---

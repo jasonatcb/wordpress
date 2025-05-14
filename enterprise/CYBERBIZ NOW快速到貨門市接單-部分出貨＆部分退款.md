@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨門市接單-部分出貨＆部分退款"
 last_modified: "2024-05-30"
-categories: [2021-06-08 09:46:02]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13344"
 ---

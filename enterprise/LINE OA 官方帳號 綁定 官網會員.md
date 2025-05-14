@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 官方帳號 綁定 官網會員"
 last_modified: "2024-11-06"
-categories: [2022-08-19 03:40:19]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE OA,LINE推播]
 permalink: "https://www.cyberbiz.io/support/?p=32679"
 ---

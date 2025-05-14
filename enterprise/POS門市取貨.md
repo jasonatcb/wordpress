@@ -1,7 +1,7 @@
 ---
 title: "POS門市取貨"
 last_modified: "2022-08-31"
-categories: [2020-12-14 10:25:43]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=10418"
 ---

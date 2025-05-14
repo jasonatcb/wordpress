@@ -1,7 +1,7 @@
 ---
 title: "POS前台-商品查詢、出/進倉作業"
 last_modified: "2022-02-25"
-categories: [2019-05-22 08:56:51]
+categories: [POS>POS前台>庫存查詢]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2962"
 ---

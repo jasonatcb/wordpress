@@ -1,7 +1,7 @@
 ---
 title: "Meta 廣告 – 【特殊情境】廣告創建失敗"
 last_modified: "2024-12-12"
-categories: [2024-10-18 01:47:31]
+categories: [第三方整合>Facebook相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=44556"
 ---

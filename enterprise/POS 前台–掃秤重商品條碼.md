@@ -1,7 +1,7 @@
 ---
 title: "POS 前台 – 掃秤重商品條碼"
 last_modified: "2025-03-10"
-categories: [2025-03-10 08:31:12]
+categories: [POS>POS前台>結帳教學]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=47792"
 ---

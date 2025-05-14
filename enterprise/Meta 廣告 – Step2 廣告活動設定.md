@@ -1,7 +1,7 @@
 ---
 title: "Meta 廣告 – Step2 廣告活動設定"
 last_modified: "2025-04-09"
-categories: [2024-10-16 02:39:35]
+categories: [第三方整合>Facebook相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=1755"
 ---

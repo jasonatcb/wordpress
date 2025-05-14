@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW設定首頁入口&專區顏色"
 last_modified: "2024-12-02"
-categories: [2021-12-20 07:46:19]
+categories: [網站設定>前台介面,網站設定>拖拉版型,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24278"
 ---

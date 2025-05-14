@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲-後台操作(庫存紀錄)"
 last_modified: "2024-10-09"
-categories: [2020-09-04 09:05:21]
+categories: [峰潮倉庫-Honeycomb]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=9159"
 ---

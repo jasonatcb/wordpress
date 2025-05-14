@@ -1,7 +1,7 @@
 ---
 title: "POS前台選單設定"
 last_modified: "2022-03-01"
-categories: [2021-02-04 03:12:59]
+categories: [POS>POS後台,POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=11224"
 ---

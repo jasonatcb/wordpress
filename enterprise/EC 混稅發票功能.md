@@ -1,7 +1,7 @@
 ---
 title: "EC 混稅發票功能"
 last_modified: "2023-04-06"
-categories: [2023-03-21 03:26:25]
+categories: [TW台灣站,訂單>發票相關]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=37151"
 ---

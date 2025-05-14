@@ -1,7 +1,7 @@
 ---
 title: "EXCEL大量匯入商品(多筆新增、更新商品)"
 last_modified: "2025-02-21"
-categories: [2022-09-08 09:08:14]
+categories: [跨境電商>北美站,商品>商品上架/管理]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=33323"
 ---

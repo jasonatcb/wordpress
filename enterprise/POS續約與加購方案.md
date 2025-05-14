@@ -1,7 +1,7 @@
 ---
 title: "POS續約與加購方案"
 last_modified: "2021-12-24"
-categories: [2021-12-23 08:05:26]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24441"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "POS庫存管理介面&初始庫存設定"
 last_modified: "2022-02-22"
-categories: [2022-02-22 05:52:57]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=27443"
 ---

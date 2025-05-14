@@ -1,7 +1,7 @@
 ---
 title: "API&amp;WEBHOOK 串接文件"
 last_modified: "2024-03-25"
-categories: [2023-12-11 06:54:09]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=40162"
 ---

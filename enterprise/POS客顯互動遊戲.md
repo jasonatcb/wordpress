@@ -1,7 +1,7 @@
 ---
 title: "POS客顯互動遊戲"
 last_modified: "2020-09-10"
-categories: [2020-05-26 09:59:02]
+categories: [POS>POS後台,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=7666"
 ---

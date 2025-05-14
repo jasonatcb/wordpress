@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ POS平板裝置使用說明"
 last_modified: "2022-03-01"
-categories: [2021-10-08 08:41:27]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=21520"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "金流說明 : Apple Pay"
 last_modified: "2024-03-28"
-categories: [2024-03-27 06:06:26]
+categories: [TW台灣站,跨境電商,網站設定>金物流設定]
 tags: [Apple Pay,金流設定]
 permalink: "https://www.cyberbiz.io/support/?p=40622"
 ---

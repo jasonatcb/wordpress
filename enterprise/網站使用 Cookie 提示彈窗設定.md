@@ -1,7 +1,7 @@
 ---
 title: "網站使用 Cookie 提示彈窗設定"
 last_modified: "2022-03-22"
-categories: [2021-12-22 07:57:14]
+categories: [網站設定>語法教學,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24351"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨後台設定-複製商品到門市"
 last_modified: "2022-01-28"
-categories: [2021-06-02 08:33:43]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12814"
 ---

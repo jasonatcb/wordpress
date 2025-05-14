@@ -1,7 +1,7 @@
 ---
 title: "FB & IG 異常狀況排除"
 last_modified: "2024-07-22"
-categories: [2021-12-28 10:43:55]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24676"
 ---

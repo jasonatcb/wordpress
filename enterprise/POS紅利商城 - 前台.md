@@ -1,7 +1,7 @@
 ---
 title: "POS紅利商城 - 前台"
 last_modified: "2023-01-03"
-categories: [2022-12-30 02:41:49]
+categories: [POS>POS紅利商城,TW台灣站,POS>POS前台]
 tags: [POS,POS前台,紅利商城]
 permalink: "https://www.cyberbiz.io/support/?p=35526"
 ---

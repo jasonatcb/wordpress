@@ -1,7 +1,7 @@
 ---
 title: "金流申請：LINE Pay"
 last_modified: "2024-04-26"
-categories: [2022-11-28 03:43:44]
+categories: [TW台灣站,常見問題,網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=35122"
 ---

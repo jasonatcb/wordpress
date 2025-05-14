@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲-商家進倉規範"
 last_modified: "2023-05-12"
-categories: [2020-08-21 03:03:10]
+categories: [峰潮倉庫-Honeycomb]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=8770"
 ---

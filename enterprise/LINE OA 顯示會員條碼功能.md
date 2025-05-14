@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 顯示會員條碼功能"
 last_modified: "2023-08-31"
-categories: [2019-03-12 11:28:45]
+categories: [第三方整合>LINE相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=748"
 ---

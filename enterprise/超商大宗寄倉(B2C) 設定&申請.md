@@ -1,7 +1,7 @@
 ---
 title: "超商大宗寄倉(B2C) 設定&申請"
 last_modified: "2025-02-14"
-categories: [2022-01-11 02:37:00]
+categories: [常見問題,網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=1921"
 ---

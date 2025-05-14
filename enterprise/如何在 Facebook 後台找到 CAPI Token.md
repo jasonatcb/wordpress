@@ -1,7 +1,7 @@
 ---
 title: "如何在 Facebook 後台找到 CAPI Token"
 last_modified: "2023-12-01"
-categories: [2023-12-01 06:39:52]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: [#FACEBOOK]
 permalink: "https://www.cyberbiz.io/support/?p=11704"
 ---

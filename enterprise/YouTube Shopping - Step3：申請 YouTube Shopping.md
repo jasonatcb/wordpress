@@ -1,7 +1,7 @@
 ---
 title: "YouTube Shopping - Step3：申請 YouTube Shopping"
 last_modified: "2024-11-04"
-categories: [2020-03-03 08:36:09]
+categories: [第三方整合>YouTube相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=6149"
 ---

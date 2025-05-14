@@ -1,7 +1,7 @@
 ---
 title: "APP Push推播管理"
 last_modified: "2021-12-27"
-categories: [2021-12-02 02:39:28]
+categories: [POS,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=23345"
 ---

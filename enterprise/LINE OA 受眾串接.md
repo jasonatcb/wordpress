@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 受眾串接"
 last_modified: "2024-03-22"
-categories: [2022-03-22 02:30:00]
+categories: [第三方整合>LINE相關設定]
 tags: [LINE OA,LINE推播,行銷]
 permalink: "https://www.cyberbiz.io/support/?p=28387"
 ---

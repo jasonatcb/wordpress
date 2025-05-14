@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨門市接單-司機媒合後的相關問題集"
 last_modified: "2025-02-03"
-categories: [2021-06-08 08:28:03]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13253"
 ---

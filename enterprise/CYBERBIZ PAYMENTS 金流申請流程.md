@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ PAYMENTS 金流申請流程"
 last_modified: "2024-02-29"
-categories: [2022-12-13 01:02:40]
+categories: [TW台灣站,網站設定>金物流設定]
 tags: [CYBERBIZ PAYMENTS,申請流程,金流]
 permalink: "https://www.cyberbiz.io/support/?p=34623"
 ---

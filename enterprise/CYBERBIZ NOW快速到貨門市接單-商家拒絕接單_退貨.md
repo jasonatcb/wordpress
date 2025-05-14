@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨門市接單-商家拒絕接單/退貨"
 last_modified: "2023-12-08"
-categories: [2021-06-07 09:07:07]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13193"
 ---

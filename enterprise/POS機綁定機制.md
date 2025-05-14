@@ -1,7 +1,7 @@
 ---
 title: "POS機綁定機制"
 last_modified: "2022-01-19"
-categories: [2022-01-12 11:01:32]
+categories: [POS>POS後台,POS>POS前台,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=25293"
 ---

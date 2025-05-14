@@ -1,7 +1,7 @@
 ---
 title: "POS進倉單教學(後台)"
 last_modified: "2023-01-12"
-categories: [2019-11-18 09:40:22]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4814"
 ---

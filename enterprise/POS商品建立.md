@@ -1,7 +1,7 @@
 ---
 title: "POS商品建立"
 last_modified: "2024-06-14"
-categories: [2019-11-26 02:38:19]
+categories: [POS>POS後台>權限設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=5138"
 ---

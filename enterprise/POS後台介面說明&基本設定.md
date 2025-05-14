@@ -1,7 +1,7 @@
 ---
 title: "POS後台介面說明&基本設定"
 last_modified: "2024-06-14"
-categories: [2022-02-10 11:20:46]
+categories: [POS>POS後台>權限設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=27199"
 ---

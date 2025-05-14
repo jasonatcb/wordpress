@@ -1,7 +1,7 @@
 ---
 title: "POS前台 - 整筆訂單折扣"
 last_modified: "2022-12-19"
-categories: [2022-12-14 03:01:35]
+categories: [TW台灣站,POS>POS前台]
 tags: [POS,POS前台,行銷優惠]
 permalink: "https://www.cyberbiz.io/support/?p=35401"
 ---

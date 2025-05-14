@@ -1,7 +1,7 @@
 ---
 title: "Google Analytics 進階資料分析設定"
 last_modified: "2025-04-24"
-categories: [2023-03-07 05:49:18]
+categories: [第三方整合>Google相關設定,TW台灣站]
 tags: [GA,GA4,Google信號,第三方,資料設定]
 permalink: "https://www.cyberbiz.io/support/?p=36980"
 ---

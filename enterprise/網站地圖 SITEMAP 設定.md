@@ -1,7 +1,7 @@
 ---
 title: "網站地圖 SITEMAP 設定"
 last_modified: "2025-04-25"
-categories: [2021-07-02 04:23:00]
+categories: [網站設定>前台介面]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=3807"
 ---

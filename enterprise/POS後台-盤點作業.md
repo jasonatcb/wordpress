@@ -1,7 +1,7 @@
 ---
 title: "POS後台-盤點作業"
 last_modified: "2022-02-24"
-categories: [2019-11-19 07:55:52]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4911"
 ---

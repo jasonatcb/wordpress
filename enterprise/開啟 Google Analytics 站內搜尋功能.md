@@ -1,7 +1,7 @@
 ---
 title: "開啟 Google Analytics 站內搜尋功能"
 last_modified: "2025-04-25"
-categories: [2022-03-09 11:16:24]
+categories: [第三方整合>Google相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=28483"
 ---

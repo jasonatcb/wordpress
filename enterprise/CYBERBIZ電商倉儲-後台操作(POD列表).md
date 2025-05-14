@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲-後台操作(POD列表)"
 last_modified: "2023-12-25"
-categories: [2023-12-25 02:44:34]
+categories: [TW台灣站,峰潮倉庫-Honeycomb]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=39973"
 ---

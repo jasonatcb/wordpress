@@ -1,7 +1,7 @@
 ---
 title: "POS前台-調倉作業"
 last_modified: "2022-02-25"
-categories: [2019-05-22 10:07:43]
+categories: [POS>POS前台>庫存調撥－調倉單]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=3006"
 ---

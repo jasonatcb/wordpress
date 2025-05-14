@@ -1,7 +1,7 @@
 ---
 title: "POS 混稅發票功能"
 last_modified: "2025-01-22"
-categories: [2023-04-21 01:00:00]
+categories: [POS>POS後台,TW台灣站,訂單>發票相關]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=37500"
 ---

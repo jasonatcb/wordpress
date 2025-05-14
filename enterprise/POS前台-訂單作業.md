@@ -1,7 +1,7 @@
 ---
 title: "POS前台-訂單作業"
 last_modified: "2025-05-09"
-categories: [2019-05-22 08:13:06]
+categories: [POS>POS前台>訂單查詢]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2940"
 ---

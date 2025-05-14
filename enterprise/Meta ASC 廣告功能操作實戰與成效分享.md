@@ -1,7 +1,7 @@
 ---
 title: "Meta ASC 廣告功能操作實戰與成效分享"
 last_modified: "2024-12-11"
-categories: [2024-12-11 08:01:21]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=46743"
 ---

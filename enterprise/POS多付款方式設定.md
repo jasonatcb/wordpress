@@ -1,7 +1,7 @@
 ---
 title: "POS多付款方式設定"
 last_modified: "2022-02-15"
-categories: [2019-07-25 10:25:39]
+categories: [POS>POS後台>多付款方式設定&amp;操作教學,常見問題]
 tags: [POS]
 permalink: "https://www.cyberbiz.io/support/?p=3268"
 ---

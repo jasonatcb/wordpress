@@ -1,7 +1,7 @@
 ---
 title: "POS進倉單教學-查看進倉單列表"
 last_modified: "2023-08-07"
-categories: [2019-11-18 08:51:03]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4799"
 ---

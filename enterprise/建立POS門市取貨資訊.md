@@ -1,7 +1,7 @@
 ---
 title: "建立POS門市取貨資訊"
 last_modified: "2021-12-09"
-categories: [2020-12-14 10:51:56]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=10454"
 ---

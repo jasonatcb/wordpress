@@ -1,7 +1,7 @@
 ---
 title: "註冊 Google Search Console"
 last_modified: "2025-04-24"
-categories: [2023-12-06 08:42:01]
+categories: [第三方整合>Google相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=15362"
 ---

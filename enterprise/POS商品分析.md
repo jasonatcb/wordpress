@@ -1,7 +1,7 @@
 ---
 title: "POS商品分析"
 last_modified: "2022-03-04"
-categories: [2022-03-04 05:56:10]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=28253"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ NOW快速到貨-運費價格＆對帳方式"
 last_modified: "2025-01-14"
-categories: [2023-10-26 08:53:30]
+categories: [TW台灣站,對帳,CYBERBIZ NOW快速到貨]
 tags: [CYBRBIZ NOW,pandago,快速到貨,金物流]
 permalink: "https://www.cyberbiz.io/support/?p=13847"
 ---

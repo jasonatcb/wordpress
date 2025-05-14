@@ -1,7 +1,7 @@
 ---
 title: "EDM設定"
 last_modified: "2025-03-26"
-categories: [2021-12-10 02:45:31]
+categories: [行銷活動>行銷工具]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=23782"
 ---

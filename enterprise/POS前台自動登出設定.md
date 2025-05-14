@@ -1,7 +1,7 @@
 ---
 title: "POS前台自動登出設定"
 last_modified: "2019-11-19"
-categories: [2019-11-19 09:38:04]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4259"
 ---

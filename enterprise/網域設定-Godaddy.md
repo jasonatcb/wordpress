@@ -1,7 +1,7 @@
 ---
 title: "網域設定-Godaddy"
 last_modified: "2024-08-30"
-categories: [2021-06-30 08:02:00]
+categories: [網站設定>網域設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=1"
 ---

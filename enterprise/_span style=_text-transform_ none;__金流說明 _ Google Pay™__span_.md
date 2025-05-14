@@ -1,7 +1,7 @@
 ---
 title: "<span style="text-transform: none;">金流說明 : Google Pay™</span>"
 last_modified: "2024-10-25"
-categories: [2019-03-29 04:14:50]
+categories: [常見問題,網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2620"
 ---

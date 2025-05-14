@@ -1,7 +1,7 @@
 ---
 title: "在網站中設定Google Map地圖"
 last_modified: "2024-10-18"
-categories: [2024-10-18 08:42:55]
+categories: [網站設定>前台介面,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2801"
 ---

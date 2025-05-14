@@ -1,7 +1,7 @@
 ---
 title: "POS前台 - 小結/關帳作業"
 last_modified: "2025-04-01"
-categories: [2019-05-23 03:38:25]
+categories: [POS>POS前台>日結關帳]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=3036"
 ---

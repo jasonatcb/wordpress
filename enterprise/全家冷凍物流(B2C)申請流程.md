@@ -1,7 +1,7 @@
 ---
 title: "全家冷凍物流(B2C)申請流程"
 last_modified: "2025-04-29"
-categories: [2021-10-05 02:33:37]
+categories: [常見問題,網站設定>金物流設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=21320"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "網域設定 – TWNIC"
 last_modified: "2024-10-21"
-categories: [2024-10-21 07:43:37]
+categories: [TW台灣站,網站設定>網域設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4540"
 ---

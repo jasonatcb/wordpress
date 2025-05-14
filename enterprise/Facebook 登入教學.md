@@ -1,7 +1,7 @@
 ---
 title: "Facebook 登入教學"
 last_modified: "2023-11-10"
-categories: [2021-06-07 10:00:00]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=507"
 ---

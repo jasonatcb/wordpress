@@ -1,7 +1,7 @@
 ---
 title: "POS前台-庫存調整功能"
 last_modified: "2023-10-20"
-categories: [2019-05-22 10:19:28]
+categories: [POS>POS前台>庫存盤點]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=3025"
 ---

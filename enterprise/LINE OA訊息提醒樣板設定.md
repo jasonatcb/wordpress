@@ -1,7 +1,7 @@
 ---
 title: "LINE OA訊息提醒樣板設定"
 last_modified: "2024-05-31"
-categories: [2022-12-30 06:34:51]
+categories: [第三方整合>LINE相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=728"
 ---

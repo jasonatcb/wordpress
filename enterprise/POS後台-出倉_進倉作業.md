@@ -1,7 +1,7 @@
 ---
 title: "POS後台-出倉/進倉作業"
 last_modified: "2022-02-25"
-categories: [2019-11-14 06:07:48]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=4623"
 ---

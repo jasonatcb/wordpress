@@ -1,7 +1,7 @@
 ---
 title: "AUTOMATION 發送教學(簡訊/EDM/LINE OA)"
 last_modified: "2025-02-20"
-categories: [2023-10-11 04:22:13]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=38837"
 ---

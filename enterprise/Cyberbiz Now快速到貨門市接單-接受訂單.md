@@ -1,7 +1,7 @@
 ---
 title: "Cyberbiz Now快速到貨門市接單-接受訂單"
 last_modified: "2021-08-03"
-categories: [2021-06-07 06:29:02]
+categories: [CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13134"
 ---

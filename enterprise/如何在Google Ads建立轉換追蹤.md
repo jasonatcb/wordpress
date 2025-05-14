@@ -1,7 +1,7 @@
 ---
 title: "如何在Google Ads建立轉換追蹤"
 last_modified: "2025-04-30"
-categories: [2022-11-24 03:46:40]
+categories: [第三方整合>Google相關設定,TW台灣站,跨境電商>北美站,常見問題]
 tags: [ads,GOOGLE,廣告]
 permalink: "https://www.cyberbiz.io/support/?p=232"
 ---

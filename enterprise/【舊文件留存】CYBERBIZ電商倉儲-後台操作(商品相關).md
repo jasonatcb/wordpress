@@ -1,7 +1,7 @@
 ---
 title: "【舊文件留存】CYBERBIZ電商倉儲-後台操作(商品相關)"
 last_modified: "2024-09-18"
-categories: [2020-03-02 03:02:45]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=6108"
 ---

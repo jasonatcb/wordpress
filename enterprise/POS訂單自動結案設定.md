@@ -1,7 +1,7 @@
 ---
 title: "POS訂單自動結案設定"
 last_modified: "2024-05-16"
-categories: [2021-12-07 04:14:46]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=23628"
 ---

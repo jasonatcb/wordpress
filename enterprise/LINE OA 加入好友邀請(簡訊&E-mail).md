@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 加入好友邀請(簡訊&E-mail)"
 last_modified: "2022-09-15"
-categories: [2022-03-02 09:00:00]
+categories: [第三方整合>LINE相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=739"
 ---

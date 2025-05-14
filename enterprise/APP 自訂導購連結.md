@@ -1,7 +1,7 @@
 ---
 title: "APP 自訂導購連結"
 last_modified: "2021-12-02"
-categories: [2020-08-19 09:19:56]
+categories: [APP]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=8739"
 ---

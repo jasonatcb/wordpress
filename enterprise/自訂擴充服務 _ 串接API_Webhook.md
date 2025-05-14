@@ -1,7 +1,7 @@
 ---
 title: "自訂擴充服務 : 串接API/Webhook"
 last_modified: "2024-04-09"
-categories: [2024-03-25 10:33:29]
+categories: [常見問題,API應用]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=20739"
 ---

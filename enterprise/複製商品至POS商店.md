@@ -1,7 +1,7 @@
 ---
 title: "複製商品至POS商店"
 last_modified: "2021-04-26"
-categories: [2021-04-26 08:11:02]
+categories: [POS>POS後台,商品>商品上架/管理]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=11985"
 ---

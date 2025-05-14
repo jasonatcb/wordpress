@@ -1,7 +1,7 @@
 ---
 title: "POS LINEPAY掃碼支付"
 last_modified: "2024-07-29"
-categories: [2021-01-22 09:30:03]
+categories: [POS>POS前台>付款方式設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=11171"
 ---

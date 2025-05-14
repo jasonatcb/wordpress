@@ -1,7 +1,7 @@
 ---
 title: "UTM設定教學：分類Google Analytics 流量來源"
 last_modified: "2022-09-14"
-categories: [2022-07-29 09:00:00]
+categories: [第三方整合>Google相關設定,TW台灣站]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=6434"
 ---

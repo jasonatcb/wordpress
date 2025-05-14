@@ -1,7 +1,7 @@
 ---
 title: "EXCEL 大量匯入商品"
 last_modified: "2024-08-02"
-categories: [2023-03-31 08:25:53]
+categories: [商品>商品上架/管理,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=1960"
 ---

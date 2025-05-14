@@ -1,7 +1,7 @@
 ---
 title: "Email通知樣板管理"
 last_modified: "2024-11-11"
-categories: [2023-01-17 01:19:39]
+categories: [行銷活動>行銷工具]
 tags: [EMAIL,行銷,訊息]
 permalink: "https://www.cyberbiz.io/support/?p=7709"
 ---

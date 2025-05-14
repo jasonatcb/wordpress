@@ -1,7 +1,7 @@
 ---
 title: "Google Analytics 排除第三方網站與內部流量"
 last_modified: "2025-04-24"
-categories: [2023-02-03 03:53:29]
+categories: [第三方整合>Google相關設定,TW台灣站,跨境電商>日本站,跨境電商>北美站]
 tags: [GA4,GOOGLE,Google Analytics]
 permalink: "https://www.cyberbiz.io/support/?p=3962"
 ---

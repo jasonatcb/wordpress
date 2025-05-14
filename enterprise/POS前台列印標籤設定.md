@@ -1,7 +1,7 @@
 ---
 title: "POS前台列印標籤設定"
 last_modified: "2021-06-17"
-categories: [2021-06-11 09:13:21]
+categories: [POS>POS前台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13988"
 ---

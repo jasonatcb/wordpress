@@ -1,7 +1,7 @@
 ---
 title: "跨境電商－VIP設定"
 last_modified: "2023-05-31"
-categories: [2023-01-10 08:00:05]
+categories: [跨境電商>多國語系,會員>VIP設定,跨境電商>北美站]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=36078"
 ---

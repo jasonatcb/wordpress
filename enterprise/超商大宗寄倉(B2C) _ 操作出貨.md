@@ -1,7 +1,7 @@
 ---
 title: "超商大宗寄倉(B2C) : 操作出貨"
 last_modified: "2025-04-10"
-categories: [2022-09-29 06:00:00]
+categories: [TW台灣站,訂單>出貨]
 tags: [7-11,B2C,全家,出貨,大宗寄倉,萊爾富,超商,進倉規範]
 permalink: "https://www.cyberbiz.io/support/?p=977"
 ---

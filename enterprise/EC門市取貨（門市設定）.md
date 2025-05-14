@@ -1,7 +1,7 @@
 ---
 title: "EC門市取貨（門市設定）"
 last_modified: "2023-05-16"
-categories: [2022-12-06 01:53:19]
+categories: [TW台灣站,網站設定>金物流設定,Cyberbiz Store,CYBERBIZ NOW快速到貨]
 tags: [門市取貨]
 permalink: "https://www.cyberbiz.io/support/?p=15619"
 ---

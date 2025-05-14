@@ -1,7 +1,7 @@
 ---
 title: "FACEBOOK 快速登入異常 解決辦法"
 last_modified: "2024-07-22"
-categories: [2022-01-28 04:08:42]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=26854"
 ---

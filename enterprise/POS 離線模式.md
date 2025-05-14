@@ -1,7 +1,7 @@
 ---
 title: "POS 離線模式"
 last_modified: "2021-08-30"
-categories: [2021-05-20 09:58:24]
+categories: [POS>POS前台,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12654"
 ---

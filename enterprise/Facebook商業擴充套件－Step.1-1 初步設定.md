@@ -1,7 +1,7 @@
 ---
 title: "Facebook商業擴充套件－Step.1-1 初步設定"
 last_modified: "2024-07-22"
-categories: [2021-02-04 11:45:31]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: [FACEBOOK]
 permalink: "https://www.cyberbiz.io/support/?p=11341"
 ---

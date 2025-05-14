@@ -1,7 +1,7 @@
 ---
 title: "Google Analytics : 通用 GA 轉至 GA4"
 last_modified: "2023-05-15"
-categories: [2022-12-28 06:59:12]
+categories: [第三方整合>Google相關設定,TW台灣站]
 tags: [GA3,GA4,Google Analytics,分析,通用GA]
 permalink: "https://www.cyberbiz.io/support/?p=35608"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Cyberbiz Now快速到貨-消費者購買流程"
 last_modified: "2023-12-08"
-categories: [2021-06-04 08:12:46]
+categories: [常見問題,CYBERBIZ NOW快速到貨]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12978"
 ---

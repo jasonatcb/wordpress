@@ -1,7 +1,7 @@
 ---
 title: "FACEBOOK 商業擴充套件－Step.2 網域驗證與事件設定"
 last_modified: "2024-07-22"
-categories: [2021-06-15 07:02:10]
+categories: [第三方整合>Facebook相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=13973"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲 - 後台操作(公告)"
 last_modified: "2023-11-29"
-categories: [2023-11-27 09:00:43]
+categories: [峰潮倉庫-Honeycomb]
 tags: [WMS]
 permalink: "https://www.cyberbiz.io/support/?p=39940"
 ---

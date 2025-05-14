@@ -1,7 +1,7 @@
 ---
 title: "系統串接後，不欲顯示商品於FB、IG商店"
 last_modified: "2024-07-22"
-categories: [2022-03-09 04:14:03]
+categories: [第三方整合>Facebook相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=28419"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Cyberbiz POS系統需求"
 last_modified: "2020-09-22"
-categories: [2020-09-22 07:31:49]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=9439"
 ---

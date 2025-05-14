@@ -1,7 +1,7 @@
 ---
 title: "LINE購物申請開通流程與設定"
 last_modified: "2024-11-20"
-categories: [2023-02-18 04:23:27]
+categories: [常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=36752"
 ---

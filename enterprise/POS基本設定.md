@@ -1,7 +1,7 @@
 ---
 title: "POS基本設定"
 last_modified: "2022-06-30"
-categories: [2019-11-29 07:04:55]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=5231"
 ---

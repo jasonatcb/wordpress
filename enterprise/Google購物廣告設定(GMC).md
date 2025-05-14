@@ -1,7 +1,7 @@
 ---
 title: "Google購物廣告設定(GMC)"
 last_modified: "2025-04-24"
-categories: [2023-01-11 08:43:04]
+categories: [第三方整合>Google相關設定]
 tags: [GMC,GOOGLE,Google Merchant Center,廣告]
 permalink: "https://www.cyberbiz.io/support/?p=230"
 ---

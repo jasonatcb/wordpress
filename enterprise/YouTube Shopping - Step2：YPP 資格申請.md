@@ -1,7 +1,7 @@
 ---
 title: "YouTube Shopping - Step2：YPP 資格申請"
 last_modified: "2024-11-04"
-categories: [2019-03-21 03:54:59]
+categories: [第三方整合>YouTube相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=1979"
 ---

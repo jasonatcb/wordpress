@@ -1,7 +1,7 @@
 ---
 title: "DHL 物流開通設定"
 last_modified: "2025-03-06"
-categories: [2022-04-15 02:49:46]
+categories: [訂單>出貨,跨境電商]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=29664"
 ---

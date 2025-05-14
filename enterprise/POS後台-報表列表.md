@@ -1,7 +1,7 @@
 ---
 title: "POS後台-報表列表"
 last_modified: "2022-02-24"
-categories: [2022-01-11 07:48:57]
+categories: [POS>POS後台]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=25099"
 ---

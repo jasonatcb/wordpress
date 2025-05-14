@@ -1,7 +1,7 @@
 ---
 title: "使用 Google 安全瀏覽工具檢查網站風險狀態"
 last_modified: "2025-05-13"
-categories: [2022-01-05 10:40:08]
+categories: [第三方整合>Google相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=24812"
 ---
@@ -40,7 +40,7 @@ permalink: "https://www.cyberbiz.io/support/?p=24812"
 
 📌 如何申請 Google 安全性審核並解除網站警示
 
-1. 若您的網站被判定為不安全，可先參閱 [Google官方文件：申請審查](https://developers.google.com/web/fundamentals/security/hacked/request_review)，查看各安全問題的解決方案。  
+1. 若您的網站被判定為不安全，可先參閱 [申請審查](https://developers.google.com/web/fundamentals/security/hacked/request_review)，查看各安全問題的解決方案。  
 [![Google-檢查網站狀態](https://www.cyberbiz.io/support/wp-content/uploads/2022/01/Google-檢查網站狀態4.png)](https://www.cyberbiz.io/support/wp-content/uploads/2022/01/Google-檢查網站狀態4.png)
 
 

@@ -1,7 +1,7 @@
 ---
 title: "App 通知設定教學文件"
 last_modified: "2020-07-20"
-categories: [2020-07-02 09:57:06]
+categories: [APP]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=7978"
 ---

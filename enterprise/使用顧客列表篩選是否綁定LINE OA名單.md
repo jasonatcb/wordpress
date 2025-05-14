@@ -1,7 +1,7 @@
 ---
 title: "使用顧客列表篩選是否綁定LINE OA名單"
 last_modified: "2022-02-22"
-categories: [2019-03-12 10:48:48]
+categories: [第三方整合>LINE相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=721"
 ---

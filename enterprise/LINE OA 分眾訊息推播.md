@@ -1,7 +1,7 @@
 ---
 title: "LINE OA 分眾訊息推播"
 last_modified: "2023-07-27"
-categories: [2022-12-15 05:53:33]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE,LINEOA,LINE推播,LINE行銷]
 permalink: "https://www.cyberbiz.io/support/?p=25964"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "FACEBOOK 商業擴充套件－Step.3 FB、IG商店設定"
 last_modified: "2024-07-22"
-categories: [2021-03-23 04:03:09]
+categories: [第三方整合>Facebook相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=11757"
 ---

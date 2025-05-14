@@ -1,7 +1,7 @@
 ---
 title: "LINE 快速登入教學"
 last_modified: "2025-04-16"
-categories: [2022-08-08 01:30:00]
+categories: [TW台灣站,第三方整合>LINE相關設定]
 tags: [LINE,LINE登入]
 permalink: "https://www.cyberbiz.io/support/?p=675"
 ---

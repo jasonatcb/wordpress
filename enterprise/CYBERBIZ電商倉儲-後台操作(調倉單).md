@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲-後台操作(調倉單)"
 last_modified: "2024-03-11"
-categories: [2023-11-30 01:43:23]
+categories: [峰潮倉庫-Honeycomb]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=9068"
 ---

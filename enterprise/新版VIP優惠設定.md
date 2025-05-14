@@ -1,7 +1,7 @@
 ---
 title: "新版VIP優惠設定"
 last_modified: "2025-05-08"
-categories: [2021-05-07 02:56:24]
+categories: [會員>VIP設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=12426"
 ---

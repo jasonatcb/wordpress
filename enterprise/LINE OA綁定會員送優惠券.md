@@ -1,7 +1,7 @@
 ---
 title: "LINE OA綁定會員送優惠券"
 last_modified: "2023-10-31"
-categories: [2022-12-08 07:39:31]
+categories: [第三方整合>LINE相關設定]
 tags: [LINE,LINE OA,LINE推播,LINE行銷,優惠券]
 permalink: "https://www.cyberbiz.io/support/?p=763"
 ---

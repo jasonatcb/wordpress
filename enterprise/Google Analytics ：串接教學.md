@@ -1,7 +1,7 @@
 ---
 title: "Google Analytics ：串接教學"
 last_modified: "2025-04-21"
-categories: [2025-04-21 09:14:57]
+categories: [第三方整合>Google相關設定,常見問題]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=165"
 ---

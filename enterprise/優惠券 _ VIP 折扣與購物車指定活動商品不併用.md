@@ -1,7 +1,7 @@
 ---
 title: "優惠券 / VIP 折扣與購物車指定活動商品不併用"
 last_modified: "2021-10-25"
-categories: [2021-04-13 10:39:54]
+categories: [會員>VIP設定,常見問題,行銷活動>優惠券(碼)]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=11928"
 ---

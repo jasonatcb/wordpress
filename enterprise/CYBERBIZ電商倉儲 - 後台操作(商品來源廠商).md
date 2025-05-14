@@ -1,7 +1,7 @@
 ---
 title: "CYBERBIZ電商倉儲 - 後台操作(商品來源廠商)"
 last_modified: "2023-11-29"
-categories: [2023-11-28 04:07:57]
+categories: [峰潮倉庫-Honeycomb]
 tags: [WMS]
 permalink: "https://www.cyberbiz.io/support/?p=39949"
 ---

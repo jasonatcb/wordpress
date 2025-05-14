@@ -1,7 +1,7 @@
 ---
 title: "POS前台 - 店長改價"
 last_modified: "2022-12-19"
-categories: [2022-12-14 02:59:57]
+categories: [TW台灣站,POS>POS前台]
 tags: [POS,POS前台,行銷優惠]
 permalink: "https://www.cyberbiz.io/support/?p=35268"
 ---

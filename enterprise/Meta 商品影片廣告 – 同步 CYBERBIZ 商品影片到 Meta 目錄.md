@@ -1,7 +1,7 @@
 ---
 title: "Meta 商品影片廣告 – 同步 CYBERBIZ 商品影片到 Meta 目錄"
 last_modified: "2024-12-12"
-categories: [2019-03-22 02:01:39]
+categories: [第三方整合>Facebook相關設定]
 tags: []
 permalink: "https://www.cyberbiz.io/support/?p=2175"
 ---
